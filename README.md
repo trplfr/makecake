@@ -1,4 +1,4 @@
-# CAKE
+# MAKECAKE
 [![GitHub stars](https://img.shields.io/github/stars/trplfr/makecake.svg?style=flat-square)](https://github.com/trplfr/makecake/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/trplfr/makecake.svg?style=flat-square)](https://github.com/trplfr/makecake/network)
 

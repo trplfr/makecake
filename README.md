@@ -1,21 +1,21 @@
 # CAKE
-[![GitHub stars](https://img.shields.io/github/stars/trplfr/cake.svg?style=flat-square)](https://github.com/trplfr/cake/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/trplfr/cake.svg?style=flat-square)](https://github.com/trplfr/cake/network)
+[![GitHub stars](https://img.shields.io/github/stars/trplfr/makecake.svg?style=flat-square)](https://github.com/trplfr/makecake/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/trplfr/makecake.svg?style=flat-square)](https://github.com/trplfr/makecake/network)
 
-CAKE is a responsive [React](https://reactjs.org/) app/game that utilises Redux, Router, react-konva and react-spring.
+MAKECAKE is a responsive [React](https://reactjs.org/) app/game that utilises Redux, Router, react-konva and react-spring.
 
 <!-- ![] -->
 
 ## Demo
-[CAKE DEMO](https://trplfr.github.io/cake/)
+[MAKECAKE DEMO](https://trplfr.github.io/makecake/)
 
 ## Installation
 [node.js](http://nodejs.org/download/) and [yarn](https://yarnpkg.com/en/docs/install/) is required to get ``yarn``.
 
 If you would like to download the code and try it for yourself:
 
-1. Clone the repo: `git@github.com:trplfr/cake`
-2. `cd cake`
+1. Clone the repo: `git@github.com:trplfr/makecake`
+2. `cd makecake`
 2. Install packages: `yarn`
 3. Build project and launch: `yarn start`
 4. Open your browser at: `http://localhost:8080`
@@ -32,7 +32,7 @@ Key tools used in this React project are:
 | [react-spring](https://www.react-spring.io/) | A spring-physics based animation library |
 
 ## Node.js
-Supports LTS version (v6).
+Supports LTS version (v12).
 
 ## Author
 [Valentine C.](https://github.com/trplfr)

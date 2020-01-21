@@ -1,13 +1,10 @@
-# MAKECAKE
+# makecake
 [![GitHub stars](https://img.shields.io/github/stars/trplfr/makecake.svg?style=flat-square)](https://github.com/trplfr/makecake/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/trplfr/makecake.svg?style=flat-square)](https://github.com/trplfr/makecake/network)
 
-MAKECAKE is a responsive [React](https://reactjs.org/) app/game that utilises Redux, Router, react-konva and react-spring.
+makecake is a responsive [React](https://reactjs.org/) app/game that utilises Redux, Router, react-konva and react-spring.
 
 <!-- ![] -->
-
-## Demo
-[MAKECAKE DEMO](https://trplfr.github.io/makecake/)
 
 ## Installation
 [node.js](http://nodejs.org/download/) and [yarn](https://yarnpkg.com/en/docs/install/) is required to get ``yarn``.
